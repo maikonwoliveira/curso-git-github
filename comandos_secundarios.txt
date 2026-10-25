@@ -1,4 +1,13 @@
 esse arquivo contem comandos secundarios de git
 
-uma
-dois
+- primeiro comando
+- segundo comando
+
+comandos mais genéricos
+comandos estranhos
+
+mais comandos!!!!
+
+HAhahahaha
+BBBBB
+AGSDAGAS
