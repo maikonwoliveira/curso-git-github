@@ -1,1 +1,3 @@
-Meu Deus! que doidera esse curso, ta bem legal!
+<<<<<<< HEAD
+Meu Deus! que doidera esse curso! ta bem legal!
+
